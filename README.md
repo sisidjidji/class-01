@@ -11,27 +11,7 @@
 # 1.HTML STRUCTURE AND MARKDOWN :
 HTML defines the content of every web page on the Internet. by using tags we can structure the web page , the following are an exemple of the most used tags
 
-<html>
-  <head>
-    <title> the titel of the web page </title>
-  </head>
- <body>
- <header> 
-
-    <h1>heading message </h1>
-    <p> for adding paragraphs</p>
-    <nav> 
-     <ul>
-      <li> < a href= ' the link'>Home</a> </li>
-     </ul>    
-    </nav>
- </header>
- <main>
-   <img src='path to the picture' >
- </main>
- <footer> </footer>
-</body>
-</html>
+![](/HTML.png/)
 
 # 2. HTML5:
 HTML5 introduce a new set of element that allow you to devide up the parts of a pages .The most interesting new HTML5 elements are: 
