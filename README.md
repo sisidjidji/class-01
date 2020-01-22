@@ -48,23 +48,32 @@ HTML5 introduce a new set of element that allow you to devide up the parts of a 
 
 # 3. PROCESS AND DESIGN :
 the following are the steps to create your new web site :
+
 * Understand who your target is and what information your web site is for 
+
 * Map your web site 
-* Wireframe it to organize the information that will need to go on each page 
+
+* Wireframe to organize the information that will need to go on each page 
+
 * Design it by using size ,color,style . use grouping and similarity to help simplify the information 
 
 # Answer to the quizz:
+
 1. HTML USE ELEMENTS TO STRUCTURE A WEB PAGE.
+
 2. HTML IS FOR : The Hypertext Markup Language.
+
 3. HTML5 introduce a new set of element that allow you to divide up the parts of a pages.
-4. Its a Diagram that help structure the page
-5. First we have to include the css that states which element should rendered as block-level level element
+
+4. Its a Diagram that help structure the page.
+
+5. First we have to include the css that states which element should rendered as block-level element
 
       header,section,footer,aside,nav,article,figure,figurecaption {
      display:block;}
  
 
-Than we will insert this javascript code :
+Then we will insert this javascript code :
 
        [if lt IE 9]
        < script src=" http://html5shiv.googlecode/snv/trunk/html5.js "> 
