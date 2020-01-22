@@ -48,10 +48,10 @@ HTML5 introduce a new set of element that allow you to devide up the parts of a 
 
 # 3. PROCESS AND DESIGN :
 the following are the steps to create your new web site :
-* understand who your target is and what information your web site is for 
-* map your web site 
-* wireframe it to organize the information that will need to go on each page 
-* design it by using size ,color,style . use grouping and similarity to help simplify the information 
+* Understand who your target is and what information your web site is for 
+* Map your web site 
+* Wireframe it to organize the information that will need to go on each page 
+* Design it by using size ,color,style . use grouping and similarity to help simplify the information 
 
 # Answer to the quizz:
 1. HTML USE ELEMENTS TO STRUCTURE A WEB PAGE.
